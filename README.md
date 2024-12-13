@@ -24,8 +24,8 @@ My development journey is backed by modern frontend frameworks like **React**, b
    
 
 ### 🌐 Development  
-- **Frontend**: HTML, CSS, JavaScript, React, Tailwind CSS, DaisyUI, Bootstrap.  
-- **Backend**: Node.js, Express.js, MongoDB, SQL.  
+- **Frontend**: HTML, CSS, JavaScript, React, Tailwind CSS.  
+- **Backend**: Node.js, Express.js, Java, Python, Spring, MongoDB, SQL.  
   
 
 ---
