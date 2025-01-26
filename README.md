@@ -18,13 +18,9 @@ Hi there! I'm **Raj Kale**, a passionate **DevOps Engineer**. With a strong foun
 ## 🔧 Technologies & Tools  
 
 ### 🛠 DevOps  
-- Linux, Git, GitLab CI/CD, Docker, Kubernetes, GitHub Actions .  
+- Linux, Git, GitLab CI/CD, Docker, Kubernetes, Jenkins, Gitops, ArgoCD, AWS, Helm, Grafana, Sonarqube .  
    
 
-### 🌐 Development  
-- **Frontend**: HTML, CSS, JavaScript, React, Tailwind CSS.  
-- **Backend**: Node.js, Express.js, Java, Python, Spring, MongoDB, SQL.  
-   
 
 ---
 
