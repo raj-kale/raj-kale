@@ -1,4 +1,4 @@
-# 💻 Raj Kale | DevOps Enthusiast & Full-Stack Developer  
+# 💻 Raj Kale | DevOps Enthusiast 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajkale9)  
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=flat&logo=github&logoColor=white)](https://github.com/raj-kale)  
